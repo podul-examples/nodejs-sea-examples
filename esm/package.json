@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "scripts": {
+        "build": "sh scripts/build.sh"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.24.1",
+        "@babel/preset-env": "^7.24.4",
+        "@vercel/ncc": "^0.38.1",
+        "postject": "1.0.0-alpha.6"
+    }
+}
